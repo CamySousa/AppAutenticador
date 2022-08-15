@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640802204691",
+    "project_id": "autentication-bfba4",
+    "storage_bucket": "autentication-bfba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640802204691:android:680d01222766f8917ce3e6",
+        "android_client_info": {
+          "package_name": "com.example.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640802204691-bktsvo2c0bdufr2gg4vdbrrmuprn674a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVO-fy3_EMA5gSUiSqouP5HZWrR5MY8JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640802204691-bktsvo2c0bdufr2gg4vdbrrmuprn674a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
